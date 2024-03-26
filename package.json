@@ -1,0 +1,20 @@
+{
+  "name": "cli_even_odd_number01",
+  "version": "1.0.1",
+  "description": "I made a simple even odd number game in cli using Typescript, Node js, inquirer and chalk, in this game a user must input any number to perform a even or odd as a result",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
